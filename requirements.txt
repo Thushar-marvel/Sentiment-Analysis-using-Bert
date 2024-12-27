@@ -2,4 +2,5 @@
 gdown
 streamlit
 numpy
+transformers
 
