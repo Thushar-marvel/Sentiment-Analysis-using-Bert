@@ -3,7 +3,7 @@ gdown
 streamlit
 numpy
 transformers
-pytorch
+torch
 scikit-learn
 numpy
 
