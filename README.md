@@ -1,6 +1,7 @@
 # Sentiment-Analysis-using-Bert
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a95f4ecf-59e5-418e-a08b-bb530b5d18de)
+
 
 
 
