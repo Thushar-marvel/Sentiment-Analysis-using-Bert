@@ -3,4 +3,6 @@ gdown
 streamlit
 numpy
 transformers
+pytorch
+tensorflow
 
