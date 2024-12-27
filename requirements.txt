@@ -4,5 +4,5 @@ streamlit
 numpy
 transformers
 pytorch
-tensorflow
+scikit-learn
 
